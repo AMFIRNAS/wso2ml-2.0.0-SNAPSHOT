@@ -1,0 +1,7 @@
+[2016-10-26 09:21:15,346]  INFO -  User [name] ADMIN of tenant [id] -1234 [domain] carbon.super is logged-in into WSO2 Machine Learner. Granted session id is 2EE68BAA0455C76D70A4903234772A4B 
+[2016-10-26 09:24:23,614]  INFO -  User [name] admin of tenant [id] -1234 [domain] carbon.super is logged-in into WSO2 Machine Learner. Granted session id is A5E65094E2C116C52CBBD09343D34512 
+[2016-10-26 10:28:40,162]  INFO -  User [name] admin of tenant [id] -1234 [domain] carbon.super is logged-in into WSO2 Machine Learner. Granted session id is EFF3E73B94A94AE00848CB7CF222FA55 
+[2016-10-26 10:37:00,609]  INFO -  User [name] admin of tenant [id] -1234 deleted an analysis [id] 184  
+[2016-10-26 10:42:02,148]  INFO -  User [name] admin of tenant [id] -1234 deleted an analysis [id] 186  
+[2016-10-26 11:14:18,858]  INFO -  User [name] ADMIN of tenant [id] -1234 [domain] carbon.super is logged-in into WSO2 Machine Learner. Granted session id is 71D78AF498AAEEC573F2BC4C27B75DC5 
+[2016-10-26 11:17:07,203]  INFO -  User [name] admin of tenant [id] -1234 [domain] carbon.super is logged-in into WSO2 Machine Learner. Granted session id is 8B3E63FC7EC4B75ACB93BFDAD676A190 
